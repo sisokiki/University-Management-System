@@ -9,8 +9,9 @@ This project was initially inspired by the "TechCoder A.V." YouTube playlist and
 ---
 
 ## 🚀 Live Demo / Showcase
+https://www.youtube.com/watch?v=LlfmZvvcjS8
+<img width="1352" height="864" alt="image" src="https://github.com/user-attachments/assets/19a1c278-e3f4-4649-86fa-64aa488fb475" />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlfmZvvcjS8?si=vPYCbqkRGGAvsOTO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -30,10 +31,7 @@ This project was initially inspired by the "TechCoder A.V." YouTube playlist and
 
 | Login Screen | Main Desktop | Add Student Form |
 | :---: | :---: | :---: |
-| [<img width="1244" height="750" alt="image" src="https://github.com/user-attachments/assets/ea001f88-d342-4a51-8d7b-f30b80dc6028" />
-] | [<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d32933aa-afde-4916-9e0b-bde68a5aa82e" />
-] | [<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0590b113-9d01-4234-8651-2bba5e6406f1" />
-] |
+| <img width="1244" height="750" alt="image" src="https://github.com/user-attachments/assets/ea001f88-d342-4a51-8d7b-f30b80dc6028" /> | <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d32933aa-afde-4916-9e0b-bde68a5aa82e" /> | <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0590b113-9d01-4234-8651-2bba5e6406f1" /> |
 
 
 ---
@@ -72,7 +70,7 @@ The complete SQL script to set up your database is included in this repository.
 ### 3. Project Configuration
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR-REPOSITORY-LINK]
+    git clone https://github.com/sisokiki/University-Management-System
     ```
 2.  **Open the project** in your IDE.
 3.  **Configure Libraries:** Make sure all the necessary `.jar` files are included in your project's classpath. In IntelliJ, you can do this by right-clicking the `jar` files in the `jar_con` folder and selecting "Add as Library...". The required libraries are:
